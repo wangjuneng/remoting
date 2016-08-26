@@ -410,5 +410,6 @@
   -->
   <modules>
     <module>srv-util</module>
+    <module>srv-core</module>
   </modules>
 </project>
