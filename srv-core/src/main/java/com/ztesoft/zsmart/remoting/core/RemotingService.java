@@ -5,5 +5,5 @@ public interface RemotingService {
     
     public void shtudown();
     
-    public void registerRPCHook();
+    public void registerRPCHook(RPCHook rpcHook);
 }
